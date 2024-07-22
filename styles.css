@@ -134,11 +134,5 @@ h2 {
     .photo-card {
         width: calc(100% - 40px); /* 1 column on small screens */
     }
-
-    header .logo {
-        position: static;
-        margin: 0 auto;
-        display: block;
-    }
     
 }
